@@ -2,4 +2,4 @@
 "This is a project where I created a landing page to showcase some beaches in Brazil."
 
 
-<video src="landing-page.mkv" autoplay muted loop></video>
+<video src="https://github.com/MatheusGomesNeto/Beaches---Brazil/blob/main/landing-page.mp4" autoplay muted loop></video>
